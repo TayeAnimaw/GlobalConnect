@@ -1,4 +1,4 @@
-# Contributing to GlobalConnect
+m# Contributing to GlobalConnect
 
 Thank you for your interest in contributing to GlobalConnect! We welcome contributions from the community.
 
